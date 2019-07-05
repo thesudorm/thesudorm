@@ -1,0 +1,19 @@
+image: node:latest
+
+stages:
+    - test
+    
+test:
+    stage: test
+    script:
+        - pwd
+        - ls
+        - ./createDatabase.sh
+        - cd app
+        - npm install
+        - npm install forever
+        - node_modules/forever/bin/forever start bin/www
+        - npm test
+    artifacts:
+        paths:
+            - dist/
