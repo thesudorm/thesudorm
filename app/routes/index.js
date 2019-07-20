@@ -44,7 +44,7 @@ router.get('/post/:postId', function(req, res, next) {
             console.log(data);
         }
     });
-    res.render('page', {content: converter.makeHtml(content)});
+    res.render('blog', {content: converter.makeHtml(content)});
 });
 
 module.exports = router;
