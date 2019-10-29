@@ -1,0 +1,29 @@
+##[100 Days of Code](/post/test)
+###### October 29, 2019
+
+#### I Didn't Complete the 100 Days of Code
+
+It's been a couple of months since I quit the 100 days of code challenge. I made
+it to 48 days, just shy of the half-way mark. Even though I did not follow
+through with the challenge, there are a few silver linings. During this attempt,
+I really wanted to limit how often I jumped from project to project. In my
+previous attempts, I would start on a new project every day or every other day.
+Doing this for the course of the challenge would not help me grow as a developer
+and honestly is a waste of time. I was not learning anything new. As soon as a
+project would get a little difficult, I would start a new one. This ensured that
+I would only work on shallow problems, which is not how you grow in a skill set.
+
+I still jumped around a little bit. However, I did not start new projects nearly
+as much as I had with past attempts. This time, I flipped between a couple of
+different projects that interested me. This gave me the novelty feeling that I
+wanted without missing the harder problems that came up in a project.
+
+If I attempt this challenge again in the future, there are a couple of things
+that I think I would do a little different to make it easier to see this to the
+end. Next time, I should work on a tool that would make my own
+life easier. Software is all about empowering users. I should look for the
+things in my life that I can automate with software. It is a little difficult to
+just work on software if it doesn't really have a purpose. A lot of the projects
+that I was working on were things that I would never really use. They were more
+of a portfolio piece than a tool. The problem with this is that I find it
+difficult to identify the needs that I have as a user. 
