@@ -148,10 +148,6 @@ a, a:visited {
 color: inherit;
 }
 
-#sidebar {
-    position: fixed;
-}
-
 .thesudorm {
     color: #1ed8d2;
 }
