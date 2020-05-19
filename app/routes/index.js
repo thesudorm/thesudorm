@@ -18,7 +18,6 @@ router.get('/blog', function(req, res, next) {
     var fileContent = "";
 
     var files = fs.readdirSync("./posts");
-    files = files.reverse();
 
     for(var i = 0; i < files.length; i++){
         fileContent = fs.readFileSync("./posts/" + files[i]).toString();
