@@ -1,4 +1,4 @@
-##[Flake](/post/05_19_20_flake)
+##[Flake](/post/3_flake)
 ###### May 19, 2020
 
 I'm a flake and I hate it. What do I mean by flake? I like to get big ideas
