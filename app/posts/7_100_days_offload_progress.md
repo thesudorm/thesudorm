@@ -30,4 +30,22 @@ habits and manage to keep them for a few weeks, sometimes a few months.
 Eventually though, I would drop the ball and revert back to my old habits. Why
 is this?
 
-I think that my biggest problem is that I tend to treat goals as a destination.
+I think that my biggest problem is that I tend to treat goals as a destination
+instead of a guide. This is an important distinction. When someone thinks of a
+goal as something they have to reach, it reinforces this idea that this person
+will not be happy until they reach this goal. They put their nose to the
+grindstone and work, work, work, thinking that once they reach their objective
+that they will be happy. This can create tension when a person realizes how far
+they are from their goal. It's easy to get discouraged if you see how much
+farther you have to go until you hit the mark you are aiming for as well.
+
+Instead, goals should be more like a guide line. The real focus should be on the
+process of reaching the goal, the journey. Forgot about the goal and lose
+yourself in what you are working on right now. Do not fret about the end product
+that you want to hit, but focus on what you are working on at this very moment.
+If the end goal is to program a video game, you are going to beat yourself up if
+you see how far away from your goal everyday. Instead, focus on that little
+sprite animation you want to get right. Hunt down that weird bug that occurs in
+a super odd scenario. Enjoy the process of what you are working in that very
+moment. Get into that flow state of mind. Use the goal to make sure that you are
+on the right path and not some gauge for measuring progress.
